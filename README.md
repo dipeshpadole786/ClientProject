@@ -72,6 +72,50 @@ Client/
 - Google Sheets sync on student create/update
 - API and Google Sheets logging for debugging and support
 
+## Screenshots
+
+### Dashboard
+
+Overview cards for total students, total fees, amount received, and pending amount.
+
+![Dashboard](Images/Screenshot%202026-07-11%20153514.png)
+
+### Students
+
+Student list with search, view, edit, and delete actions.
+
+![Students](Images/Screenshot%202026-07-11%20153654.png)
+
+### Add Student
+
+Form used to register a new student and capture fee details.
+
+![Add Student](Images/Screenshot%202026-07-11%20153711.png)
+
+### Payments
+
+Payment history screen with search and date filter.
+
+![Payments](Images/Screenshot%202026-07-11%20153733.png)
+
+### Add Payment
+
+Payment entry modal used to record a new fee payment.
+
+![Add Payment](Images/Screenshot%202026-07-11%20153756.png)
+
+### Add Payment Dropdown
+
+The student selector shown while choosing a student for a payment.
+
+![Add Payment Dropdown](Images/Screenshot%20%28567%29.png)
+
+### Settings
+
+Teacher profile and school preference settings screen.
+
+![Settings](Images/Screenshot%202026-07-11%20153810.png)
+
 ## Frontend Pages
 
 - `/login`
